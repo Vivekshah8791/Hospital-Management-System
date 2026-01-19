@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System (Python)
+
 
 A **Hospital Management System** built using **Python** that helps manage core hospital operations such as **patients, doctors, appointments, and database handling**. This project is designed with a **modular structure**, making it easy to understand, maintain, and extend.
 
